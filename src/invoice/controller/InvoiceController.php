@@ -6,7 +6,7 @@
  * Date: 2016-01-13
  * Time: 14:04
  */
-namespace Itav\Invoice;
+namespace Itav\Invoice\Controller;
 
 use Symfony\Component\HttpFoundation\Response;
 
